@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Charlesyyun
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and these applications in transportation research
-- 🌱 I’m currently learning Java, SQL, Tableau, Linux, and PyTorch
-- 💞️ I’m looking to collaborate on applying AI techniques in transportation research
+- 💞️ I’m looking to collaborate on AI competitions or intelligent transportation research
 - 📫 How to reach me: yeyun@connect.hku.hk
 
 <!---
